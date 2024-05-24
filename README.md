@@ -1,4 +1,10 @@
-## Hi there 👋
+## **Seja bem vindo ao meu perfil** 🇧🇷⭐
+
+### Sou aluna da _Alura_ e aqui você verá meus projetos 
+
+### Meu e-mail 📧
+- 00001105877541sp@al.educacao.sp.gov.br
+   ![](https://media1.tenor.com/m/EEsGwHVPdFgAAAAC/dog-smirk-dog.gif)
 
 <!--
 **mariafernanda2MY/mariafernanda2MY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
